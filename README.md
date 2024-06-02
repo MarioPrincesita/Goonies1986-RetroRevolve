@@ -1,8 +1,7 @@
 
 * **IMAGEN DEL JUEGO**
 
-*Short description of the game, names and a team photo* ---------------------------------------------------------------------------
-
+*Short description of the game, names and a team photo* -----------------------------------------------------------------------
 # Our project
 
 Definicion simple del proyecto (replica de los goonies)
@@ -16,17 +15,22 @@ The game allows you to choose between five different characters, each one with t
 
 There are two loop with seven levels each. The four shards of the mirror are obtained in the first four levels (which are randomly selected) and the wish is made once the player has completed three extra levels. In the end of each level you’ll have one boss to beat and a piece of the main plot is revealed. But in the second loop the difficult is increased and the story plot is removed.
 
+
+*Short description of the main contributions of each team member* ---------------------------------------------------------------------
+# Meet the team - RetroRevolve
 * **IMAGEN DEL LOGO**
 * **IMAGEN DEL EQUIPO Y NOMBRES**
 
-*Short description of the main contributions of each team member* -----------------------------------------------------------------
+*Nombre de los miembros y funciones*
 
-* **ROLES DE CADA UNO**
+*Embedded gameplay video uploaded on YouTube of 1 or 2 minutes presenting the project's purpose ----------------------------------------
 
-*Embedded gameplay video uploaded on YouTube of 1 or 2 minutes presenting the project's purpose -----------------------------------
 and context (screenshot with UPC logo, team members, “this project is a tribute to”, …), the gameplay
+
 (with captions presenting the features, win condition, lose condition, items, enemies…) and the
+
 debugging features (colliders, lines, areas…)*
+#Gameplay
 
 * **VIDEO - GAMEPLAY**
 
