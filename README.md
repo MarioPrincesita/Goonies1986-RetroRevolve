@@ -39,10 +39,7 @@ GitHub: [@digui048](https://github.com/digui048)
 
 # Gameplay
 
-You can see the video here:
-
-
-Or either watch it on YouTube by clicking [HERE]()
+You can see the video on YouTube by clicking [HERE](https://youtu.be/ahFqAwJhteE)
 
 
 # Downloads
