@@ -1,10 +1,9 @@
-# Goonies1986-RetroRevolve
 
 * **IMAGEN DEL JUEGO**
 
 *Short description of the game, names and a team photo* ---------------------------------------------------------------------------
 
-## Our project
+# Our project
 
 Definicion simple del proyecto (replica de los goonies)
 
