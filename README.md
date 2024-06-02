@@ -62,5 +62,16 @@ Check our Github repository [HERE]()
 >💢 IMPORTANT 💢
 > This game is made with educational purposes only
 
+>⚠️ IMPORTANT ⚠️
+> This game is made with educational purposes only
+
+>💢 IMPORTANT 💢
+> This game is made with educational purposes only
+
+>💢 IMPORTANT 💢
+> This game is made with educational purposes only
+
+>💢 IMPORTANT 💢
+>> This game is made with educational purposes only
 
 *Tribute by RetroRevolve*
