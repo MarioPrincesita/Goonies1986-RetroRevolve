@@ -1,6 +1,6 @@
 
 ![foto 'titulo'](https://goonies.jorito.net/pics/logo.png)
-
+<img src="https://goonies.jorito.net/pics/logo.png"/>
 # Our project
 
 Our intention is to to replicate the 1996 The Goonies retro video-game, as a tribute. This project has been done by only two spanish students of CITM - UPC (Barcelona).
