@@ -1,4 +1,5 @@
 <img src="https://goonies.jorito.net/pics/logo.png" />
+
 # Our project
 
 Our intention is to to replicate the 1996 The Goonies retro video-game, as a tribute. This project has been done by only two spanish students of CITM - UPC (Barcelona).
@@ -34,7 +35,9 @@ GitHub: [@MarioPrincesita](https://github.com/MarioPrincesita)
 GitHub: [@digui048](https://github.com/digui048)
 
 
-*(BORRAR) Nombre de los miembros y funciones*
+
+
+# Gameplay
 
 *(BORRAR) Embedded gameplay video uploaded on YouTube of 1 or 2 minutes presenting the project's purpose*
 
@@ -44,10 +47,7 @@ GitHub: [@digui048](https://github.com/digui048)
 
 *debugging features (colliders, lines, areas…)*  ------------------------------------------------------------------------
 
-
-# Gameplay
-
 * *(BORRAR) **VIDEO - GAMEPLAY***
 
-
+# Downloads
 *(BORRAR) Link to directly download the latest release ------------------------------------------------------------------------------------
