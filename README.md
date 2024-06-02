@@ -52,8 +52,12 @@ GitHub: [@digui048](https://github.com/digui048)
 # Downloads
 
 For more information see our wiki page [HERE](https://github.com/MarioPrincesita/Goonies-1986_Game-Analysis)
+
 Download the last version of the game [HERE]()
+
 Check our Github repository [HERE]()
+
+
 
 *Tribute by RetroRevolve*
 
