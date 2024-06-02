@@ -2,7 +2,7 @@
 
 * **IMAGEN DEL JUEGO**
 
-*Short description of the game, names and a team photo*
+*Short description of the game, names and a team photo* ---------------------------------------------------------------------------
 
 ##Our project
 We’re going to replicate the 1994 Gunbird game arcade version developed and published by Psyko as a tribute to the game. This project has been done by four catalan students of CITM - UPC (Terrasa, Spain).
@@ -14,16 +14,19 @@ The game allows you to choose between five different characters, each one with t
 
 There are two loop with seven levels each. The four shards of the mirror are obtained in the first four levels (which are randomly selected) and the wish is made once the player has completed three extra levels. In the end of each level you’ll have one boss to beat and a piece of the main plot is revealed. But in the second loop the difficult is increased and the story plot is removed.
 
+* **IMAGEN DEL LOGO**
+* **IMAGEN DEL EQUIPO Y NOMBRES**
 
+*Short description of the main contributions of each team member* -----------------------------------------------------------------
 
+* **ROLES DE CADA UNO**
 
-**COSAS POR PONER**
-
-- Short description of the main contributions of each team member.
-- Embedded gameplay video uploaded on YouTube of 1 or 2 minutes presenting the project's purpose
+*Embedded gameplay video uploaded on YouTube of 1 or 2 minutes presenting the project's purpose -----------------------------------
 and context (screenshot with UPC logo, team members, “this project is a tribute to”, …), the gameplay
 (with captions presenting the features, win condition, lose condition, items, enemies…) and the
-debugging features (colliders, lines, areas…).
-This video can be a good reference: https://www.youtube.com/watch?v=EqicyGE5C4k (it is still missing
-some more gameplay, though)
-- Link to directly download the latest release
+debugging features (colliders, lines, areas…)*
+
+* **VIDEO - GAMEPLAY**
+
+
+*Link to directly download the latest release ------------------------------------------------------------------------------------
