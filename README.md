@@ -1,6 +1,6 @@
 # Goonies1986-RetroRevolve
 
-* IMAGEN DEL JUEGO *
+* **IMAGEN DEL JUEGO**
 
 *Short description of the game, names and a team photo*
 
