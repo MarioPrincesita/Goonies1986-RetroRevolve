@@ -59,8 +59,8 @@ Check our Github repository [HERE]()
 
 
 
-*Tribute by RetroRevolve*
-
-
 > [!IMPORTANT]
 > This game is made with educational purposes only
+
+
+*Tribute by RetroRevolve*
