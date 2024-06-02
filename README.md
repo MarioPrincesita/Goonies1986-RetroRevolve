@@ -9,6 +9,7 @@ The creation of this game involved building it entirely from the ground up using
 
 ## About the game
 
+<img src="https://camo.githubusercontent.com/bad8242557f23f754dadd96b99a9886f41d04fd98383ff48085363e24c434b52/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f464859457561305759414535576c523f666f726d61743d6a7067266e616d653d6c61726765" />
 The Goonies is a platform game based on the movie in which the player takes the role of Cyclops Fratelli, often shortened to Sloth, who belongs by force to the Fratelli’s (formerly), a notorious family of Italian criminals. Despite his circumstances, he is an ally of the Goonies, a group of friends whose only hope lies in having exciting and powerful adventures.
 
 It is a single-player, side-scrolling, action-adventure platform game that was developed by Konami for the MSX. It combines elements of platforming, puzzle-solving, and exploration, navigating through various levels inspired by scenes from the film, all in an effort to rescue his kidnapped friends and find the treasure of One-Eyed Willy.
