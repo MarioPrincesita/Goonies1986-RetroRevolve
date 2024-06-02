@@ -42,7 +42,7 @@ GitHub: [@digui048](https://github.com/digui048)
 You can see the video here:
 
 
-Or you can watch it on YouTube clicking [HERE]()
+Or either watch it on YouTube by clicking [HERE]()
 
 
 # Downloads
