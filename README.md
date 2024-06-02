@@ -55,8 +55,6 @@ For more information see our wiki page [HERE](https://github.com/MarioPrincesita
 
 Download the last version of the game [HERE]()
 
-Check our Github repository [HERE](https://github.com/MarioPrincesita/Goonies1986-RetroRevolve)
-
 
 
 >⚠️ IMPORTANT ⚠️
