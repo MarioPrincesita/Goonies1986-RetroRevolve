@@ -2,7 +2,7 @@
 
 
 
-** COSAS POR PONER **
+**COSAS POR PONER**
 
 - Short description of the game, names and a team photo
 - Short description of the main contributions of each team member.
