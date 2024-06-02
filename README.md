@@ -16,10 +16,13 @@ It was first released on the Japanese Famicom in 1986 and quickly ported to the 
 
 *(BORRAR) Short description of the main contributions of each team member* ---------------------------------------------------------------------
 # Meet the team - RetroRevolve
+
 * **IMAGEN DEL LOGO**
+
 ![LOGO DEF](https://github.com/MarioPrincesita/Goonies-1986_Game-Analysis/assets/159776249/7d580945-e95b-4b5e-9ee8-f38cb7b46f6f)
 
 * **IMAGEN DEL EQUIPO Y NOMBRES**
+
 ![EQUIPO IMG](https://st.depositphotos.com/2702761/3303/i/450/depositphotos_33038429-stock-photo-two-businessmen-shaking-hands.jpg)
 
 
