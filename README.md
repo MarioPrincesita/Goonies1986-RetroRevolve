@@ -59,7 +59,7 @@ Check our Github repository [HERE]()
 
 
 
-> 💢 IMPORTANT 💢
+💢 IMPORTANT 💢
 > This game is made with educational purposes only
 
 
