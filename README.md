@@ -25,12 +25,12 @@ It was first released on the Japanese Famicom in 1986 and quickly ported to the 
 ![EQUIPO IMG](https://st.depositphotos.com/2702761/3303/i/450/depositphotos_33038429-stock-photo-two-businessmen-shaking-hands.jpg)
 
 
-> **Programmer, QA and Artist**: Mario Martos Rodríguez
+> **Programmer, Sound, QA and Artist**: Mario Martos Rodríguez
 
 GitHub: [@MarioPrincesita](https://github.com/MarioPrincesita)
 
 
-> **Programmer, QA and Designer**: Dídac Sillue Cecilia
+> **Programmer, Sound, QA and Designer**: Dídac Sillue Cecilia
 
 GitHub: [@digui048](https://github.com/digui048)
 
