@@ -31,7 +31,7 @@ and context (screenshot with UPC logo, team members, “this project is a tribut
 
 debugging features (colliders, lines, areas…)*
 
-#Gameplay
+# Gameplay
 
 * **VIDEO - GAMEPLAY**
 
