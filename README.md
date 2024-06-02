@@ -50,4 +50,13 @@ GitHub: [@digui048](https://github.com/digui048)
 * *(BORRAR) **VIDEO - GAMEPLAY***
 
 # Downloads
-*(BORRAR) Link to directly download the latest release ------------------------------------------------------------------------------------
+
+For more information see our wiki page HERE
+Download the last version of the game HERE
+Check our Github repository HERE
+
+*Tribute by RetroRevolve*
+
+
+> [!IMPORTANT]
+> This game is made with educational purposes only
