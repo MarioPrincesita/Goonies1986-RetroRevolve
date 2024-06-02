@@ -4,12 +4,12 @@
 
 *Short description of the game, names and a team photo* ---------------------------------------------------------------------------
 
-#Our project
+## Our project
 
 Definicion simple del proyecto (replica de los goonies)
 
 
-##About the game
+## About the game
 
 Gunbird was released in 1994 for arcades and belongs to the vertically scrolling shoot’em up genre and has both single-player and two-player cooperative modes.
 
