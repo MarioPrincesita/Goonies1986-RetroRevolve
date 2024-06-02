@@ -23,13 +23,14 @@ There are two loop with seven levels each. The four shards of the mirror are obt
 
 *Nombre de los miembros y funciones*
 
-*Embedded gameplay video uploaded on YouTube of 1 or 2 minutes presenting the project's purpose ----------------------------------------
+*Embedded gameplay video uploaded on YouTube of 1 or 2 minutes presenting the project's purpose
 
 and context (screenshot with UPC logo, team members, “this project is a tribute to”, …), the gameplay
 
 (with captions presenting the features, win condition, lose condition, items, enemies…) and the
 
-debugging features (colliders, lines, areas…)*
+debugging features (colliders, lines, areas…)*  ------------------------------------------------------------------------
+
 
 # Gameplay
 
