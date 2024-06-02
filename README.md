@@ -30,6 +30,7 @@ and context (screenshot with UPC logo, team members, “this project is a tribut
 (with captions presenting the features, win condition, lose condition, items, enemies…) and the
 
 debugging features (colliders, lines, areas…)*
+
 #Gameplay
 
 * **VIDEO - GAMEPLAY**
