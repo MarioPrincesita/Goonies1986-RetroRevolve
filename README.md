@@ -57,9 +57,6 @@ Download the last version of the game [HERE]()
 
 
 
->⚠️ IMPORTANT ⚠️
-> This game is made with educational purposes only
-
 >🔴 IMPORTANT 🔴
 > This game is made with educational purposes only
 
