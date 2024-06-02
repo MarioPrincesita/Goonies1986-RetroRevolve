@@ -39,15 +39,11 @@ GitHub: [@digui048](https://github.com/digui048)
 
 # Gameplay
 
-*(BORRAR) Embedded gameplay video uploaded on YouTube of 1 or 2 minutes presenting the project's purpose*
+You can see the video here:
 
-*and context (screenshot with UPC logo, team members, “this project is a tribute to”, …), the gameplay*
 
-*(with captions presenting the features, win condition, lose condition, items, enemies…) and the*
+Or you can watch it on YouTube clicking [HERE]()
 
-*debugging features (colliders, lines, areas…)*  ------------------------------------------------------------------------
-
-* *(BORRAR) **VIDEO - GAMEPLAY***
 
 # Downloads
 
