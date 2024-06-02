@@ -49,7 +49,7 @@ Or either watch it on YouTube by clicking [HERE]()
 
 For more information see our wiki page [HERE](https://github.com/MarioPrincesita/Goonies-1986_Game-Analysis/wiki)
 
-Download the last version of the game [HERE]()
+Download the last version of the game [HERE](https://github.com/MarioPrincesita/Goonies-1986_Game-Analysis/releases)
 
 
 
