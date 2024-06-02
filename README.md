@@ -1,29 +1,29 @@
 
 * **IMAGEN DEL JUEGO**
 
-*Short description of the game, names and a team photo* -----------------------------------------------------------------------
+*(BORRAR) Short description of the game, names and a team photo* -----------------------------------------------------------------------
 # Our project
 
-Definicion simple del proyecto (replica de los goonies)
+Our intention is to to replicate the 1996 The Goonies retro video-game, as a tribute. This project has been done by only two spanish students of CITM - UPC (Barcelona).
 
+The creation of this game involved building it entirely from the ground up using the C++ programming language and exploiting the capabilities of the Raylib library. Sprites and music from the original game were extracted and incorporated into this version. The game encompasses the first 3 stage found in the original game.
 
 ## About the game
 
-Gunbird was released in 1994 for arcades and belongs to the vertically scrolling shoot’em up genre and has both single-player and two-player cooperative modes.
+The Goonies is a platform game based on the movie in which the player takes the role of Cyclops Fratelli, often shortened to Sloth, who belongs by force to the Fratelli’s (formerly), a notorious family of Italian criminals. Despite his circumstances, he is an ally of the Goonies, a group of friends whose only hope lies in having exciting and powerful adventures.
 
-The game allows you to choose between five different characters, each one with their own skills and powers. The objective of the game is to obtain the four shards of a magic mirror in order to get a wish once they are all assembled. They will fight against The Trump (a group of three pirates) for the fragments of the mirror.
+It is a single-player, side-scrolling, action-adventure platform game that was developed by Konami for the MSX. It combines elements of platforming, puzzle-solving, and exploration, navigating through various levels inspired by scenes from the film, all in an effort to rescue his kidnapped friends and find the treasure of One-Eyed Willy.
 
-There are two loop with seven levels each. The four shards of the mirror are obtained in the first four levels (which are randomly selected) and the wish is made once the player has completed three extra levels. In the end of each level you’ll have one boss to beat and a piece of the main plot is revealed. But in the second loop the difficult is increased and the story plot is removed.
+It was first released on the Japanese Famicom in 1986 and quickly ported to the Sharp X1, MSX and PC-8801. Its media type was a cartridge, and it supported a keyboard as an input device, and as a controller, a digital joystick.
 
-
-*Short description of the main contributions of each team member* ---------------------------------------------------------------------
+*(BORRAR) Short description of the main contributions of each team member* ---------------------------------------------------------------------
 # Meet the team - RetroRevolve
 * **IMAGEN DEL LOGO**
 * **IMAGEN DEL EQUIPO Y NOMBRES**
 
-*Nombre de los miembros y funciones*
+*(BORRAR) Nombre de los miembros y funciones*
 
-*Embedded gameplay video uploaded on YouTube of 1 or 2 minutes presenting the project's purpose*
+*(BORRAR) Embedded gameplay video uploaded on YouTube of 1 or 2 minutes presenting the project's purpose*
 
 *and context (screenshot with UPC logo, team members, “this project is a tribute to”, …), the gameplay*
 
@@ -37,4 +37,4 @@ There are two loop with seven levels each. The four shards of the mirror are obt
 * **VIDEO - GAMEPLAY**
 
 
-*Link to directly download the latest release ------------------------------------------------------------------------------------
+*(BORRAR) Link to directly download the latest release ------------------------------------------------------------------------------------
