@@ -1,5 +1,6 @@
 
 * **IMAGEN DEL JUEGO**
+![foto 'titulo'](https://goonies.jorito.net/pics/logo.png)
 
 *(BORRAR) Short description of the game, names and a team photo* -----------------------------------------------------------------------
 # Our project
